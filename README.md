@@ -29,7 +29,7 @@ This web application presents peer-reviewed longevity and physical activity rese
 ### 1. Prerequisites
 - Node.js 18+
 - npm or yarn
-- Running [Short Intense Movements Backend API](https://github.com/Chengetanaim/short-intense-movements-api)
+- Running [Short Intense Movements Backend API](https://github.com/Chengetanaim/short-intense-movements-rag)
 
 ### 2. Installation & Setup
 
